@@ -36,7 +36,9 @@ The "Graphics" button in the Options Menu allows configuring graphics settings (
 The "Audio" button in the Options Menu allows configuring audio settings (placeholder).
 8. Accessibility Settings
 The "Accessibility" button in the Options Menu allows configuring accessibility settings (placeholder).
+Images: To customize the main menu screen and option screens backgrounds, change the files main_menu_background.png and options_menu_background.png respectively within the images folder inside the script directory to your desired images.
 Conclusion
 The Adaptable Number Guessing Game GUI offers a basic framework for creating a game menu with launch options. Customize it to suit your game's specific requirements. For assistance or questions, consult the program's developer or community. Enjoy using the Adaptable Number Guessing Game GUI!
+
 
 
