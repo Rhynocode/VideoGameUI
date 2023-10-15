@@ -1,4 +1,4 @@
-# VideoGameUI
+# VideoGameUI 
 Adaptable Number Guessing Game GUI User Manual
 1. Installation and Requirements
 Requirements:
